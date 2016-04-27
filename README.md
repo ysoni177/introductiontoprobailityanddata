@@ -1,2 +1,2 @@
-# Introduction to Probability and Data
-### Coursera by Duke Univeristy
+# Introduction to Probability and Data (Duke)
+### by A Suarez-Pierre
