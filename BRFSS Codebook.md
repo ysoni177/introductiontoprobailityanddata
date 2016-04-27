@@ -1,0 +1,1 @@
+[BRFSS Code Book](https://d18ky98rnyall9.cloudfront.net/_384b2d9eda4b29131fb681b243a7767d_brfss2013.RData?Expires=1461888000&Signature=Iw9x8EWZChcMq-WI9FyshZ6ICFBMYNhcAWRSu4YBYxiCe4ZZbROvfk93apnL82jEdYfxBnwN70VI5XBTsj2ceZugqEtzUGoQCftukHndj3RYy7m-vzgUnTZ2Vl9QEijtpVo4IcFVMDlmOFZv5zQ6l7uY1ZQqK81UOEGgxG~b3Oc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
