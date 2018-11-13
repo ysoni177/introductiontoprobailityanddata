@@ -1,5 +1,5 @@
 # Introduction to Probability and Data (Duke)
-### by A Suarez-Pierre
+### by Yash Soni
 
 #### Instructions
 Identify a research question similar to questions we’ve talked about in this course. Use the Behavioral Risk Factor Surveillance System (BRFSS) dataset.  
